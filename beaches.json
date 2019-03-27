@@ -1,11 +1,11 @@
 {
   "data":[{
     "adress": "Address_1",
-    "brewDescription": "Description",
+    "brewDescription": "Are you looking for the perfect beach for a dream holiday in Europe? Discover the list of the beaches you have chosen among the most beautiful ones in Europe.Just put down your bath towel on a fine sand beach, apply some sunscreen on your body and enjoy the sun and the clear blue waters. Book your flight tickets, your hotel and your best activities and guided tours in Europe today and discover the most beautiful beaches in Europe.",
     "images": ["https://www.tripsavvy.com/thmb/sZeJlS64vQQBKX7wjUbYPdj7aDg=/650x0/filters:no_upscale():max_bytes(150000):strip_icc()/la-concha-bay-and-beach-in-san-sebastian-597872961-591c4b7e3df78cf5fa765b52.jpg", "https://www.tripsavvy.com/thmb/0-pxzAc22NbgdmnyEXNrG-7qlKA=/650x0/filters:no_upscale():max_bytes(150000):strip_icc()/spain-ribadeo-playa-de-las-catedrales-sunny-morning-at-beach-647332453-591c4b8f3df78cf5fa768598.jpg"],
     "latitude": "46.119033",
     "longitude": "32.284071",
-    "name": "Zalizniy Port",
+    "name": "Супер Пляж",
     "schedule": "Open 24/7"
   },
   {
@@ -13,7 +13,7 @@
     "brewDescription": "Description",
     "images": ["https://www.tripsavvy.com/thmb/sZeJlS64vQQBKX7wjUbYPdj7aDg=/650x0/filters:no_upscale():max_bytes(150000):strip_icc()/la-concha-bay-and-beach-in-san-sebastian-597872961-591c4b7e3df78cf5fa765b52.jpg", "https://www.tripsavvy.com/thmb/0-pxzAc22NbgdmnyEXNrG-7qlKA=/650x0/filters:no_upscale():max_bytes(150000):strip_icc()/spain-ribadeo-playa-de-las-catedrales-sunny-morning-at-beach-647332453-591c4b8f3df78cf5fa768598.jpg"],
     "latitude": "46.119033",
-    "longitude": "32.284071",
+    "longitude": "31.284071",
     "name": "Zalizniy Port",
     "schedule": "Open 24/7"
   }
